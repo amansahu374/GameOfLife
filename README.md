@@ -4,13 +4,16 @@ This project is a C# console-based simulation of Conway's Game of Life, designed
 
 # How to Run the Project
 1- Open the solution in Visual Studio or any C# IDE.
+
 2- Build the project.
+
 3- Run the application from Program.cs.
 
 # Project Structure
 GameOfLife/
 │
 ├── Program.cs       // Main entry point
+
 ├── Game.cs          // Simulation logic
 ├── Grid.cs          // Grid and update logic
 ├── Cell.cs          // Cell representation
