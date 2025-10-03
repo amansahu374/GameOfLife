@@ -11,13 +11,17 @@ This project is a C# console-based simulation of Conway's Game of Life, designed
 
 # Project Structure
 GameOfLife/
-│
-├── Program.cs       // Main entry point
 
-├── Game.cs          // Simulation logic
-├── Grid.cs          // Grid and update logic
-├── Cell.cs          // Cell representation
-└── README.md        // Project documentation
+
+  ├── Program.cs       // Main entry point
+
+  ├── Game.cs          // Simulation logic
+
+  ├── Grid.cs          // Grid and update logic
+
+  ├── Cell.cs          // Cell representation
+  
+  └── README.md        // Project documentation
 
 # Credits
 Developed by Aman Sahu as part of a coding assignment.
